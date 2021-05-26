@@ -1,30 +1,30 @@
 # Что такое GitLocalize?
 
-[GitLocalize](https://gitlocalize.com) is a continuous and automated localization platform that simplifies the translation workflow for developers.
+[GitLocalize](https://gitlocalize.com) - это платформа непрерывной и автоматической локализации, которая упрощает процесс перевода для разработчиков.
 
-Projects are always changing, and keeping them localized can be a daunting (and annoying) challenge. We realized this and decided that there should be a way to streamline this. GitLocalize connects to your GitHub repository and seamlessly integrates with your development workflow in just a few clicks.
+Проекты постоянно меняются, и сохранение их локализации может быть сложной (и раздражающей) проблемой. Мы поняли это и решили, что должен быть способ это упростить. GitLocalize подключается к вашему репозиторию GitHub и легко интегрируется с вашим рабочим процессом разработки всего за несколько кликов.
 
-## How It Works
+## Как это работает
 
-You can immediately get started with your GitHub account. All you have to do is choose your repository to integrate with GitLocalize and localization will become easier than ever before. Here are the key features of the platform:
+Вы можете сразу же начать работу со своей учетной записью GitHub. Все, что вам нужно сделать, это выбрать свой репозиторий для интеграции с GitLocalize, и локализация станет проще, чем когда-либо прежде. Вот ключевые особенности платформы:
 
-### GitHub Based Workflow
+### Рабочий процесс на основе GitHub
 
-![GitHub based workflow](/assets/img/about/flow.png)
+![Рабочий процесс на основе GitHub](/assets/img/about/flow.png)
 
-Once you integrate your repo with GitLocalize, it pulls the target files to its platform and makes them translatable. It also begins to track changes in the original files so you can easily update the localized versions.
+После интеграции репозитория с GitLocalize он загружает целевые файлы на свою платформу и делает их переводимыми. Он также начинает отслеживать изменения в исходных файлах, поэтому вы можете легко обновить локализованные версии.
 
-After translating your file, simply send a review request to your team to discuss the updates as you would normally do with a pull request. Once it is reviewed and approved, you can send a pull request back to the repository. Each user's contribution on GitLocalize becomes their commit on the repository.
+После перевода файла просто отправьте запрос на проверку своей команде, чтобы обсудить обновления, как вы обычно это делаете с запросом на перенос. После проверки и утверждения вы можете отправить запрос на перенос обратно в репозиторий. Вклад каждого пользователя в GitLocalize становится его фиксацией в репозитории.
 
-With GitLocalize, your team will no longer dread localizing your project. Developers only need to look at the pull requests coming in. Let us take care of localization so you can focus on development.
+С GitLocalize ваша команда больше не будет бояться локализации вашего проекта. Разработчикам нужно только смотреть на поступающие запросы на вытягивание. Позвольте нам позаботиться о локализации, чтобы вы могли сосредоточиться на разработке.
 
-### Diff Management on Translations
+### Управление различиями в переводах
 
-![Diff management](/assets/img/about/diff_management.png)
+![Управление различиями](/assets/img/about/diff_management.png)
 
-GitLocalize parses your file into trackable segments, automatically links the translation with the version in the source language, and tells you which sections of the file still need to be translated. Even with frequent updates to your project, GitLocalize keeps localization stress-free.
+GitLocalize анализирует ваш файл на отслеживаемые сегменты, автоматически связывает перевод с версией на исходном языке и сообщает вам, какие разделы файла еще нужно перевести. Даже при частом обновлении вашего проекта GitLocalize избавляет от стресса при локализации.
 
-There is no need to remember what needs to be updated. You just need to look at the split-view editor to see which parts of the file are missing translations.
+Не нужно запоминать, что нужно обновлять. Вам просто нужно посмотреть в редакторе с разделенным представлением, чтобы увидеть, в каких частях файла отсутствуют переводы.
 
 <!--
 Thanks for taking the time to read about GitLocalize. Check back often, as we have more features lined up that are almost ready to go. We're very excited for these additions and think that you will be too!
