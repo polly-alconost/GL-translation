@@ -28,6 +28,9 @@ There is no need to remember what needs to be updated. You just need to look at 
 <!--
 Thanks for taking the time to read about GitLocalize. Check back often, as we have more features lined up that are almost ready to go. We're very excited for these additions and think that you will be too!
 -->
+
+##Getting Started
+
 Integrating your repository with GitLocalize only takes a few minutes!
 First, go to gitlocalize.com and sign up with your GitHub account.
 Click either the "Sign up" button at the top right or the "Get started with GitHub" button on the left. Next, you will be prompted to authorize your account with our GitHub app
