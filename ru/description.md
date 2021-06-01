@@ -29,3 +29,9 @@ GitLocalize анализирует ваш файл на отслеживаемы
 <!--
 Thanks for taking the time to read about GitLocalize. Check back often, as we have more features lined up that are almost ready to go. We're very excited for these additions and think that you will be too!
 -->
+
+Интеграция вашего репозитория с GitLocalize займет всего несколько минут! Сначала перейдите на gitlocalize.com и зарегистрируйтесь, используя свою учетную запись GitHub. Нажмите кнопку «Зарегистрироваться» вверху справа или кнопку «Начать работу с GitHub» слева. Затем вам будет предложено авторизовать свою учетную запись с помощью нашего приложения GitHub.
+
+## Добавить репозиторий
+
+После регистрации нажмите кнопку «Добавить репозиторий» на странице «Проекты».
